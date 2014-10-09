@@ -1,0 +1,1 @@
+Ez lenne itt a style. Először csak commitolom, de nem sync-elem.
